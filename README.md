@@ -1,3 +1,4 @@
 # JEOPARDY-GAME
 
-  ./Machine_main
+```
+./Machine_main
